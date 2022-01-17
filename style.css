@@ -1,0 +1,21 @@
+body{
+	background:gray;
+	font-family:cursive;
+	margin:20px;
+}
+p{
+	text-align:center;
+	color:white;
+}
+h1, h2{
+	color : white;
+	font-size: 50px;
+	text-align: center;
+	font-weight: bold;
+}
+#city{
+	border: 8px dotted red;
+}
+div{
+	align-content: center;
+}
