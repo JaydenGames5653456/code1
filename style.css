@@ -1,7 +1,7 @@
 body{
 	background:gray;
 	font-family:cursive;
-	margin:20px;
+	margin:100px;
 }
 p{
 	text-align:center;
@@ -14,8 +14,39 @@ h1, h2{
 	font-weight: bold;
 }
 #city{
-	border: 8px dotted red;
+	background-color:black;
+	border: 8px dashed grey;
 }
 div{
 	align-content: center;
+	border-radius:10px;
+	padding: 40px;
+	margin:50px;
+}
+h3{
+	color : white;
+	text-align: center;
+	font-weight: bold;
+}
+#game{
+	background-color:rgb(51,51,51);
+	border: 10px dotted grey;
+}
+#gallery{
+	background-color:rgb(166, 166, 166);
+	border:15px double grey;
+}
+#about{
+	background-color:rgb(13, 13 ,13);
+	border:8px solid white;
+}
+#message{
+	background-color:rgb(13, 13 ,13);
+	border-radius:500px;
+	border:5px dashed grey;
+}
+#book{
+	background-color:rgb(166, 166, 166);
+	border:20px double grey;
+	padding-top: 10px
 }
